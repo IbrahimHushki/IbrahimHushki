@@ -5,6 +5,7 @@ I'm a former mechanical engineer based in Jordan who discovered his passion for 
 
 ![Alt Text](https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif)
 
+
 ## ⚒️ Skills:
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" width="40" />
