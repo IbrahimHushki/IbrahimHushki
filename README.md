@@ -30,6 +30,7 @@ I'm a former engineer who decided to chase his passion for coding and web develo
 
 ## My Stats:
 ![Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=IbrahimHushki&show_icons=true&theme=yeblu)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimHushki)](https://github.com/IbrahimHushki/github-readme-stats) -->
 <!--
 **IbrahimHushki/IbrahimHushki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
