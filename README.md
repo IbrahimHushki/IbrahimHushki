@@ -1,5 +1,5 @@
-# Hi, I'm Ibrahim Hushki! 👋
-## 🚀 About Me
+# Hi, I'm Ibrahim Hushki! <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" height="40" width="40"/>
+## <img src="https://user-images.githubusercontent.com/74038190/243078651-2c0eef4b-7b75-42bd-9722-4bea97a2d532.gif" height="30" width="30"/> About Me
 
 I'm a former mechanical engineer based in Jordan who discovered his passion for coding and web development and decided to chase it. I enjoy learning new skills and honing my already existing ones.
 
