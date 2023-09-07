@@ -1,7 +1,7 @@
 # Hi, I'm Ibrahim Hushki! 👋
 ## 🚀 About Me
 
-I'm a former engineer based in Jordan who decided to chase his passion for coding and web development. I enjoy learning new skills and honing my already existing ones.
+I'm a former mechanical engineer based in Jordan who discovered his passion for coding and web development and decided to chase it. I enjoy learning new skills and honing my already existing ones.
 
 ![Alt Text](https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif)
 
