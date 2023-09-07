@@ -6,7 +6,7 @@ I'm a former mechanical engineer based in Jordan who discovered his passion for 
 ![Alt Text](https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif)
 
 
-## ⚒️ Skills:
+## ⚒️ Skills
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" width="40" />
 </a>
@@ -37,7 +37,7 @@ I'm a former mechanical engineer based in Jordan who discovered his passion for 
 [<img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][email]
 
 
-## :bar_chart: My Stats:
+## :bar_chart: My Stats
 ![Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=IbrahimHushki&show_icons=true&theme=yeblu)
 <br>
 <br>
