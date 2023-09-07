@@ -37,7 +37,7 @@ I'm a former mechanical engineer based in Jordan who discovered his passion for 
 [<img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][email]
 
 
-## My Stats:
+## :bar_chart: My Stats:
 ![Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=IbrahimHushki&show_icons=true&theme=yeblu)
 <br>
 <br>
