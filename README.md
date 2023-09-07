@@ -1,7 +1,7 @@
 # Hi, I'm Ibrahim Hushki! 👋
 ## 🚀 About Me
 
-I'm a former engineer who decided to chase his passion for coding and web development
+I'm a former engineer who decided to chase his passion for coding and web development.
 ## ⚒️ Skills:
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" width="40" />
@@ -28,9 +28,19 @@ I'm a former engineer who decided to chase his passion for coding and web develo
 <img align="center" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" height="40" width="40" />
 </a>
 
+## - 📫 How to reach me
+[<img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][email]
+
+
 ## My Stats:
 ![Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=IbrahimHushki&show_icons=true&theme=yeblu)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimHushki)](https://github.com/IbrahimHushki/github-readme-stats) -->
+<!-- <p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=IbrahimHushki&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&layout=compact" alt="IbrahimHushki stats card" /></p>
+-->
+[linkedin]: https://www.linkedin.com/in/ibrahimhushki/
+[email]: mailto:hushki.ibrahim@gmail.com
+
 <!--
 **IbrahimHushki/IbrahimHushki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
