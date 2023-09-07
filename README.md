@@ -38,6 +38,9 @@ I'm a former mechanical engineer based in Jordan who discovered his passion for 
 
 ## My Stats:
 ![Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=IbrahimHushki&show_icons=true&theme=yeblu)
+<br>
+<br>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IbrahimHushki&theme=yeblu&date_format=j%20M%5B%20Y%5D&exclude_days=Fri%2CSat)](https://git.io/streak-stats)
 <!-- <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=IbrahimHushki&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&layout=compact" alt="IbrahimHushki stats card" /></p>
 -->
